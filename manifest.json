@@ -1,10 +1,412 @@
 {
   "customizes": "https://github.com/Trigve-Hagen/easy-life-test-website",
   "assets": [
-    {"key": "hero_headline", "type": "title", "value": "Clear Legal Advice, No Jargon"},
-    {"key": "hero_tagline", "type": "body", "value": "A small family law and estate planning practice that explains your options plainly before you decide anything."},
-    {"key": "hero_image", "type": "image", "url": "https://placehold.co/1200x600/1f2937/e5e7eb?text=Law+Office", "alt_text": "A law office meeting room"},
-    {"key": "about_paragraph", "type": "body", "value": "We handle family law, wills, and small estate planning for people who have never needed a lawyer before and don't want to feel talked down to. Every first meeting is a real conversation, not a sales pitch -- we tell you honestly whether you need us at all, and what it will actually cost if you do. No hourly surprises: every case gets a flat fee, agreed in writing, before any work starts."},
-    {"key": "feature_video", "type": "video", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"}
+    {
+      "key": "brand_mark",
+      "type": "title",
+      "value": "HK"
+    },
+    {
+      "key": "brand_name",
+      "type": "title",
+      "value": "Hale & Koss"
+    },
+    {
+      "key": "nav_cta",
+      "type": "title",
+      "value": "Request a consult"
+    },
+    {
+      "key": "hero_eyebrow",
+      "type": "title",
+      "value": "Family law \u00b7 Accepting new matters"
+    },
+    {
+      "key": "hero_headline",
+      "type": "title",
+      "value": "Family law handled by the lawyer you met"
+    },
+    {
+      "key": "hero_tagline",
+      "type": "body",
+      "value": "A two-attorney practice in custody, divorce, and guardianship. The person at your first meeting is the person in the courtroom."
+    },
+    {
+      "key": "hero_image",
+      "type": "image",
+      "url": "https://placehold.co/1200x600/1f2937/e5e7eb?text=Law+Office",
+      "alt_text": "A law office meeting room"
+    },
+    {
+      "key": "hero_primary_cta",
+      "type": "title",
+      "value": "Book a consultation"
+    },
+    {
+      "key": "hero_secondary_cta",
+      "type": "title",
+      "value": "Areas we practice"
+    },
+    {
+      "key": "hero_badge_title",
+      "type": "title",
+      "value": "Consults within 48 hours"
+    },
+    {
+      "key": "hero_badge_body",
+      "type": "body",
+      "value": "Flat-fee first meeting. No obligation to retain."
+    },
+    {
+      "key": "stat_1_value",
+      "type": "title",
+      "value": "18 yrs"
+    },
+    {
+      "key": "stat_1_label",
+      "type": "title",
+      "value": "In family court"
+    },
+    {
+      "key": "stat_2_value",
+      "type": "title",
+      "value": "600+"
+    },
+    {
+      "key": "stat_2_label",
+      "type": "title",
+      "value": "Matters resolved"
+    },
+    {
+      "key": "stat_3_value",
+      "type": "title",
+      "value": "2"
+    },
+    {
+      "key": "stat_3_label",
+      "type": "title",
+      "value": "Attorneys, by choice"
+    },
+    {
+      "key": "trust_label",
+      "type": "title",
+      "value": "Admitted & recognized"
+    },
+    {
+      "key": "trust_1",
+      "type": "title",
+      "value": "STATE BAR"
+    },
+    {
+      "key": "trust_2",
+      "type": "title",
+      "value": "FAMILY LAW SECTION"
+    },
+    {
+      "key": "trust_3",
+      "type": "title",
+      "value": "COUNTY MEDIATION PANEL"
+    },
+    {
+      "key": "trust_4",
+      "type": "title",
+      "value": "PRO BONO COUNCIL"
+    },
+    {
+      "key": "about_image",
+      "type": "image",
+      "url": "https://placehold.co/900x1120/1f2937/e5e7eb?text=Meeting+Room",
+      "alt_text": "Two people reviewing documents at a table"
+    },
+    {
+      "key": "about_heading",
+      "type": "title",
+      "value": "Small practice, deliberately"
+    },
+    {
+      "key": "about_paragraph",
+      "type": "body",
+      "value": "We take a limited number of matters at a time so each one gets real attention. You will have a direct line to your attorney, a written estimate before work begins, and a plain explanation of every option \u2014 including the ones that keep you out of court."
+    },
+    {
+      "key": "about_point_1",
+      "type": "body",
+      "value": "Direct line to your attorney, not an intake desk"
+    },
+    {
+      "key": "about_point_2",
+      "type": "body",
+      "value": "Written fee estimate before we begin"
+    },
+    {
+      "key": "about_point_3",
+      "type": "body",
+      "value": "Mediation attempted before litigation, always"
+    },
+    {
+      "key": "services_heading",
+      "type": "title",
+      "value": "Where we practice"
+    },
+    {
+      "key": "service_1_title",
+      "type": "title",
+      "value": "Divorce & separation"
+    },
+    {
+      "key": "service_1_body",
+      "type": "body",
+      "value": "Negotiated settlements first, litigation when the other side leaves no choice."
+    },
+    {
+      "key": "service_1_meta",
+      "type": "title",
+      "value": "Consult $250"
+    },
+    {
+      "key": "service_2_title",
+      "type": "title",
+      "value": "Custody & support"
+    },
+    {
+      "key": "service_2_body",
+      "type": "body",
+      "value": "Parenting plans, modifications, and enforcement \u2014 built around the child's schedule."
+    },
+    {
+      "key": "service_2_meta",
+      "type": "title",
+      "value": "Consult $250"
+    },
+    {
+      "key": "service_3_title",
+      "type": "title",
+      "value": "Guardianship & wills"
+    },
+    {
+      "key": "service_3_body",
+      "type": "body",
+      "value": "Standby guardianship, simple wills, and the paperwork families put off too long."
+    },
+    {
+      "key": "service_3_meta",
+      "type": "title",
+      "value": "From $900"
+    },
+    {
+      "key": "feature_video",
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "key": "video_heading",
+      "type": "title",
+      "value": "What a first meeting looks like"
+    },
+    {
+      "key": "video_body",
+      "type": "body",
+      "value": "Two minutes on what to bring, what we will ask, and what happens in the week after."
+    },
+    {
+      "key": "testimonials_heading",
+      "type": "title",
+      "value": "From former clients"
+    },
+    {
+      "key": "quote_1",
+      "type": "body",
+      "value": "\u201cShe told me plainly what my case was worth and what it would cost. Both were accurate.\u201d"
+    },
+    {
+      "key": "quote_1_by",
+      "type": "title",
+      "value": "Former client \u2014 custody"
+    },
+    {
+      "key": "quote_2",
+      "type": "body",
+      "value": "\u201cCalls returned the same day, every time. During a divorce that is everything.\u201d"
+    },
+    {
+      "key": "quote_2_by",
+      "type": "title",
+      "value": "Former client \u2014 dissolution"
+    },
+    {
+      "key": "quote_3",
+      "type": "body",
+      "value": "\u201cThey talked me out of a fight I would have lost and settled it in six weeks.\u201d"
+    },
+    {
+      "key": "quote_3_by",
+      "type": "title",
+      "value": "Former client \u2014 support"
+    },
+    {
+      "key": "pricing_heading",
+      "type": "title",
+      "value": "Fees stated before work starts"
+    },
+    {
+      "key": "pricing_sub",
+      "type": "body",
+      "value": "Flat fees where the scope is knowable, hourly only where it genuinely is not."
+    },
+    {
+      "key": "tier_1_name",
+      "type": "title",
+      "value": "Consultation"
+    },
+    {
+      "key": "tier_1_price",
+      "type": "title",
+      "value": "$250"
+    },
+    {
+      "key": "tier_1_unit",
+      "type": "title",
+      "value": "/ 60 min"
+    },
+    {
+      "key": "tier_1_line_1",
+      "type": "body",
+      "value": "Case assessment in writing"
+    },
+    {
+      "key": "tier_1_line_2",
+      "type": "body",
+      "value": "No obligation to retain"
+    },
+    {
+      "key": "tier_1_line_3",
+      "type": "body",
+      "value": "Credited if you do"
+    },
+    {
+      "key": "tier_2_name",
+      "type": "title",
+      "value": "Uncontested"
+    },
+    {
+      "key": "tier_2_price",
+      "type": "title",
+      "value": "$2,400"
+    },
+    {
+      "key": "tier_2_unit",
+      "type": "title",
+      "value": "flat"
+    },
+    {
+      "key": "tier_2_line_1",
+      "type": "body",
+      "value": "Filing through final decree"
+    },
+    {
+      "key": "tier_2_line_2",
+      "type": "body",
+      "value": "All drafting included"
+    },
+    {
+      "key": "tier_2_line_3",
+      "type": "body",
+      "value": "Court appearance included"
+    },
+    {
+      "key": "tier_3_name",
+      "type": "title",
+      "value": "Contested"
+    },
+    {
+      "key": "tier_3_price",
+      "type": "title",
+      "value": "$320"
+    },
+    {
+      "key": "tier_3_unit",
+      "type": "title",
+      "value": "/ hour"
+    },
+    {
+      "key": "tier_3_line_1",
+      "type": "body",
+      "value": "Retainer against hours"
+    },
+    {
+      "key": "tier_3_line_2",
+      "type": "body",
+      "value": "Monthly itemized billing"
+    },
+    {
+      "key": "tier_3_line_3",
+      "type": "body",
+      "value": "Unused retainer refunded"
+    },
+    {
+      "key": "contact_heading",
+      "type": "title",
+      "value": "Tell us the situation in one line"
+    },
+    {
+      "key": "contact_body",
+      "type": "body",
+      "value": "We will say whether we can help, what it costs, and how long it takes \u2014 before you pay anything."
+    },
+    {
+      "key": "contact_address",
+      "type": "body",
+      "value": "118 Marlow Street, Suite 2 \u2014 by appointment"
+    },
+    {
+      "key": "contact_phone",
+      "type": "title",
+      "value": "(555) 014-2280"
+    },
+    {
+      "key": "contact_email",
+      "type": "title",
+      "value": "intake@haleandkoss.com"
+    },
+    {
+      "key": "footer_brand",
+      "type": "title",
+      "value": "Hale & Koss"
+    },
+    {
+      "key": "footer_blurb",
+      "type": "body",
+      "value": "A two-attorney family law practice. Custody, divorce, guardianship \u2014 handled by the lawyer you met."
+    },
+    {
+      "key": "footer_hours_1",
+      "type": "title",
+      "value": "Mon \u2013 Thu, 9am \u2013 5pm"
+    },
+    {
+      "key": "footer_hours_2",
+      "type": "title",
+      "value": "Fri, 9am \u2013 1pm"
+    },
+    {
+      "key": "footer_hours_3",
+      "type": "title",
+      "value": "Weekends by appointment"
+    },
+    {
+      "key": "footer_phone",
+      "type": "title",
+      "value": "(555) 014-2280"
+    },
+    {
+      "key": "footer_email",
+      "type": "title",
+      "value": "intake@haleandkoss.com"
+    },
+    {
+      "key": "footer_copyright_name",
+      "type": "title",
+      "value": "Hale & Koss"
+    }
   ]
 }
