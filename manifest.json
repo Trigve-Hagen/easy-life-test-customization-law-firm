@@ -1,0 +1,10 @@
+{
+  "customizes": "https://github.com/Trigve-Hagen/easy-life-test-website",
+  "assets": [
+    {"key": "hero_headline", "type": "title", "value": "Clear Legal Advice, No Jargon"},
+    {"key": "hero_tagline", "type": "body", "value": "A small family law and estate planning practice that explains your options plainly before you decide anything."},
+    {"key": "hero_image", "type": "image", "url": "https://placehold.co/1200x600/1f2937/e5e7eb?text=Law+Office", "alt_text": "A law office meeting room"},
+    {"key": "about_paragraph", "type": "body", "value": "We handle family law, wills, and small estate planning for people who have never needed a lawyer before and don't want to feel talked down to. Every first meeting is a real conversation, not a sales pitch -- we tell you honestly whether you need us at all, and what it will actually cost if you do. No hourly surprises: every case gets a flat fee, agreed in writing, before any work starts."},
+    {"key": "feature_video", "type": "video", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"}
+  ]
+}
