@@ -34,8 +34,8 @@
     {
       "key": "hero_image",
       "type": "image",
-      "url": "https://placehold.co/1200x600/1f2937/e5e7eb?text=Law+Office",
-      "alt_text": "A law office meeting room"
+      "url": "https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?w=1200&h=600&fit=crop&q=80",
+      "alt_text": "Two business professionals signing a contract at a table"
     },
     {
       "key": "hero_primary_cta",
@@ -115,8 +115,8 @@
     {
       "key": "about_image",
       "type": "image",
-      "url": "https://placehold.co/900x1120/1f2937/e5e7eb?text=Meeting+Room",
-      "alt_text": "Two people reviewing documents at a table"
+      "url": "https://images.unsplash.com/photo-1775144657610-9a6f171e522f?w=900&h=1120&fit=crop&q=80",
+      "alt_text": "An ornate law office with an American flag and antique furnishings"
     },
     {
       "key": "about_heading",
@@ -196,7 +196,8 @@
     {
       "key": "feature_video",
       "type": "video",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "poster": "https://images.unsplash.com/photo-1775144657610-9a6f171e522f?w=1200&h=600&fit=crop&q=80"
     },
     {
       "key": "video_heading",
